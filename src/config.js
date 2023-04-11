@@ -1,3 +1,3 @@
 export const config = {
-  api: "http://localhost:4000",
+  api: "https://stroe-app.onrender.com",
 };
